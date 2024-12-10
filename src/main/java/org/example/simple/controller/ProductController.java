@@ -10,6 +10,8 @@ public class ProductController {
     @GetMapping("/hello")
     public void helloWorld() {
         System.out.println(".............");
+        System.out.println("commit 2 ");
+
 
     }
 }
